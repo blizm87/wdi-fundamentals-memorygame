@@ -23,6 +23,13 @@ h2 {
 	margin:8%;
 }
 
+img {
+	height:210px;
+	width:160px;
+	border-radius:7px;
+
+}
+
 .name {
 	color:#ff0000;
 }
